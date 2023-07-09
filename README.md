@@ -5,25 +5,25 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.facebook.com/profile.php?id=100001739833921" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamedmahmoud" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/omar-sefo-72912120a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamedmahmoud" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100001739833921" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamedmahmoud" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohamed-fahmy-580342220/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamedmahmoud" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img scr="./icons/html.png">
-  <img scr="./icons/css-3.png">
-  <img scr="./icons/js.png">
-  <img scr="./icons/typescript.png">
-  <img scr="./icons/letter-c.png">
-  <img scr="./icons/c-sharp.png">
-  <img scr="./icons/bootstrap.png">
-  <img scr="./icons/jest.png">
-  <img scr="./icons/nextjs.png">
-  <img scr="./icons/npm.png">
-  <img scr="./icons/photoshop.png">
-  <img scr="./icons/react-router.png">
-  <img scr="./icons/React.png">
-  <img scr="./icons/redux-icon.png">
-  <img scr="./icons/sass.png">
+  <img scr="./icons/html.png" alt="icon">
+  <img scr="./icons/css-3.png" alt="icon">
+  <img scr="./icons/js.png" alt="icon">
+  <img scr="./icons/typescript.png" alt="icon">
+  <img scr="./icons/letter-c.png" alt="icon">
+  <img scr="./icons/c-sharp.png" alt="icon">
+  <img scr="./icons/bootstrap.png" alt="icon">
+  <img scr="./icons/jest.png" alt="icon">
+  <img scr="./icons/nextjs.png" alt="icon">
+  <img scr="./icons/npm.png" alt="icon">
+  <img scr="./icons/photoshop.png" alt="icon">
+  <img scr="./icons/react-router.png" alt="icon">
+  <img scr="./icons/React.png" alt="icon">
+  <img scr="./icons/redux-icon.png" alt="icon">
+  <img scr="./icons/sass.png" alt="icon">
  </p>
