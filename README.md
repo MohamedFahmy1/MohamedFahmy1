@@ -12,15 +12,15 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img scr="./icons/html.png" alt="icon" height="40">
-  <img scr="./icons/css-3.png" alt="icon" height="40>
-  <img scr="./icons/js.png" alt="icon" height="40>
-  <img scr="./icons/typescript.png" alt="icon" height="40>
-  <img scr="./icons/sass.png" alt="icon" height="40>
-  <img scr="./icons/bootstrap.png" alt="icon" height="40>
-  <img scr="./icons/React.png" alt="icon" height="40>
-  <img scr="./icons/nextjs.png" alt="icon" height="40>
-  <img scr="./icons/materialUI.png" alt="icon" height="40>
-  <img scr="./icons/redux-icon.png" alt="icon" height="40>
+  <img scr="./icons/css-3.png" alt="icon" height="40">
+  <img scr="./icons/js.png" alt="icon" height="40">
+  <img scr="./icons/typescript.png" alt="icon" height="40">
+  <img scr="./icons/sass.png" alt="icon" height="40">
+  <img scr="./icons/bootstrap.png" alt="icon" height="40">
+  <img scr="./icons/React.png" alt="icon" height="40">
+  <img scr="./icons/nextjs.png" alt="icon" height="40">
+  <img scr="./icons/materialUI.png" alt="icon" height="40">
+  <img scr="./icons/redux-icon.png" alt="icon" height="40">
   <img scr="./icons/react-router.png" alt="icon" height="40">
   <img scr="./icons/letter-c.png"  alt="icon" height="40">
   <img scr="./icons/c-sharp.png"  alt="icon" height="40">
