@@ -12,7 +12,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <img src="./icons/html.png" alt="icon" height="40">
-  <img scr="./icons/css-3.png" alt="icon" height="40">
+    <img scr="./icons/css-3.png" alt="icon" height="40">
   <img scr="./icons/js.png" alt="icon" height="40">
   <img scr="./icons/typescript.png" alt="icon" height="40">
   <img scr="./icons/sass.png" alt="icon" height="40">
