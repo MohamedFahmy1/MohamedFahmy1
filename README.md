@@ -21,7 +21,7 @@
   <img src="./icons/nextjs.png" alt="icon" height="40">
   <img src="./icons/materialUI.png" alt="icon" height="40">
   <img src="./icons/redux-icon.png" alt="icon" height="40">
-  <img src="./icons/react-router.png" alt="icon" height="40">
+  <img src="./icons/react-router.png" alt="icon" height="40" width="40">
   <img src="./icons/letter-c.png" alt="icon" height="40">
   <img src="./icons/c-sharp.png" alt="icon" height="40">
   <img src="./icons/jest.png" alt="icon" height="40">
