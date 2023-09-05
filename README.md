@@ -11,23 +11,23 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <img src="./icons/html.png" alt="icon" height="40">
-    <img scr="./icons/css-3.png" alt="icon" height="40">
-  <img scr="./icons/js.png" alt="icon" height="40">
-  <img scr="./icons/typescript.png" alt="icon" height="40">
-  <img scr="./icons/sass.png" alt="icon" height="40">
-  <img scr="./icons/bootstrap.png" alt="icon" height="40">
-  <img scr="./icons/React.png" alt="icon" height="40">
-  <img scr="./icons/nextjs.png" alt="icon" height="40">
-  <img scr="./icons/materialUI.png" alt="icon" height="40">
-  <img scr="./icons/redux-icon.png" alt="icon" height="40">
-  <img scr="./icons/react-router.png" alt="icon" height="40">
-  <img scr="./icons/letter-c.png"  alt="icon" height="40">
-  <img scr="./icons/c-sharp.png"  alt="icon" height="40">
-  <img scr="./icons/jest.png"  alt="icon" height="40">
-  <img scr="./icons/vercel.svg"  alt="icon" height="40">
-  <img scr="./icons/RapidAPI.png" alt="icon" height="40">
-  <img scr="./icons/npm.png" alt="icon" height="40">
-  <img scr="./icons/figma.png" alt="icon" height="40">
-  <img scr="./icons/photoshop.png" alt="icon" height="40">
+  <img src="./icons/html.png" alt="icon" height="40">
+  <img src="./icons/css-3.png" alt="icon" height="40">
+  <img src="./icons/js.png" alt="icon" height="40">
+  <img src="./icons/typescript.png" alt="icon" height="40">
+  <img src="./icons/sass.png" alt="icon" height="40">
+  <img src="./icons/bootstrap.png" alt="icon" height="40">
+  <img src="./icons/React.png" alt="icon" height="40">
+  <img src="./icons/nextjs.png" alt="icon" height="40">
+  <img src="./icons/materialUI.png" alt="icon" height="40">
+  <img src="./icons/redux-icon.png" alt="icon" height="40">
+  <img src="./icons/react-router.png" alt="icon" height="40">
+  <img src="./icons/letter-c.png" alt="icon" height="40">
+  <img src="./icons/c-sharp.png" alt="icon" height="40">
+  <img src="./icons/jest.png" alt="icon" height="40">
+  <img src="./icons/vercel.svg" alt="icon" height="40">
+  <img src="./icons/RapidAPI.png" alt="icon" height="40">
+  <img src="./icons/npm.png" alt="icon" height="40">
+  <img src="./icons/figma.png" alt="icon" height="40">
+  <img src="./icons/photoshop.png" alt="icon" height="40">
  </p>
