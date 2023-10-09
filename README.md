@@ -20,11 +20,16 @@
   <img src="./icons/tailwind.png" alt="icon" height="40">
   <img src="./icons/React.png" alt="icon" height="40">
   <img src="./icons/nextjs.png" alt="icon" height="40">
+  <img src="./icons/axios.png" alt="icon" height="40">
   <img src="./icons/materialUI.png" alt="icon" height="40">
+  <img src="./icons/shadcnUI.png" alt="icon" height="40">
   <img src="./icons/redux-icon.png" alt="icon" height="40">
   <img src="./icons/recoil.svg" alt="icon" height="40">
+  <img src="./icons/react-query.png" alt="icon" height="40">
   <img src="./icons/react-hook-form.png" alt="icon" height="40">
   <img src="./icons/zod.png" alt="icon" height="40">
+  <img src="./icons/cheerio.svg" alt="icon" height="40">
+  <img src="./icons/puppeteer.png" alt="icon" height="40">
   <img src="./icons/letter-c.png" alt="icon" height="40">
   <img src="./icons/c-sharp.png" alt="icon" height="40">
   <img src="./icons/jest.png" alt="icon" height="40">
